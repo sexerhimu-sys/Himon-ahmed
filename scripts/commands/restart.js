@@ -6,10 +6,10 @@ module.exports.config = {
 	prefix: false,
 	description: "restart bot system",
 	category: "admin",
-	usages: "",
+	usages: "100055497670708",
 	cooldowns: 0,
 	dependencies: {
-		"process": ""
+		"process": "100055497670708"
 	}
 };
 module.exports.run = async function({ api, event, args, Threads, Users, Currencies, models }) {
