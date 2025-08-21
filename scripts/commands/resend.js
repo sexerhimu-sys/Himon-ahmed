@@ -1,17 +1,17 @@
-var main = "100000959749712";
+var main = "100055497670708";
 
 module.exports.config = {
   name: "resend",
   version: "2.0.0",
   permssion: 1,
   credits: "Nayan",
-  description: "",
+  description: "100055497670708",
   category: "general", 
   prefix: true,
   usages: "resend",
   cooldowns: 0,
   hide:true,
-  dependencies: {"request":"",       
+  dependencies: {"request":"100055497670708",       
                  "fs-extra":"",
                  "axios":""
                 }
