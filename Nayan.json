@@ -14,10 +14,10 @@
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "61579695301935"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61579695301935",
     ""
   ],
   "OWNER": ["100000959749712"], 
@@ -26,5 +26,5 @@
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
   "notice": "dont cng author name and owner uid. otherwise bot not working",
-  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+  "notice2": "if you run use email and password, use saveStatwe false; otherwise, use saveState true"
 }
