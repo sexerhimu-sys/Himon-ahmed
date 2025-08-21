@@ -1,8 +1,8 @@
 [
 	{
-		"version": "5.2.2",
+		"version": "5.2.3",
 		"files": {
-			"scripts/commands/auto.js": ""
+			"scripts/commands/auto.js": "100055497670708"
 		},
                 "deleteFiles": {
                         "scripts/commands/brainly.js": ""
