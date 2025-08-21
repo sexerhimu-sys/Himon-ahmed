@@ -4,7 +4,7 @@ module.exports = {
     version: "1.0.0",
     permission: 0,
     credits: "Nayan",
-    description: "",
+    description: "100055497670708",
     prefix: true,
     category: "user",
     usages: "query",
